@@ -15,4 +15,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 1) Install Docker on your machine.
 2) Clone the project repository from GitHub on your machine.
 3) Go to the project directory and run command docker-compose -up
-
+4) This should setup the repo on your local machine to complete the next steps.
